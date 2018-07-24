@@ -1,0 +1,5 @@
+{   
+    "url":"TARGET_API_ADDRESS" ,
+    "token":"VALID_PID",
+    "timeout" : 5
+}
